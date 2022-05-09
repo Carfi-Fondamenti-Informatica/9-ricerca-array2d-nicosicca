@@ -2,6 +2,7 @@
 #include "lib.h"
 using namespace std;
 
+
 int main() {
     int a;
     char nomi[10][20];
