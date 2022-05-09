@@ -5,7 +5,7 @@ void iniz(char x[][20], int a){
     {
         for(int j=0;j<20;j++)
         {
-            x[i][j]=' ';
+            x[i][j]=0;
         }
     }
 }
@@ -13,7 +13,7 @@ void iniz(char x[][20], int a){
 void iniz(char x[], int a){
     for(int i=0;i<a;i++)
     {
-        x[i]=' ';
+        x[i]=0;
     }
 }
 
