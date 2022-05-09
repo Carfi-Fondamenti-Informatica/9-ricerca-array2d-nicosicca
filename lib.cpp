@@ -10,6 +10,7 @@ void iniz(char x[][20], int a){
     }
 }
 
+
 void iniz(char x[], int a){
     for(int i=0;i<a;i++)
     {
