@@ -1,7 +1,7 @@
 #include "lib.h"
 
-void iniz(char x[][20], int a){
-    for(int i=0;i<a;i++)
+void iniz(char x[10][20]){
+    for(int i=0;i<10;i++)
     {
         for(int j=0;j<20;j++)
         {
@@ -11,8 +11,8 @@ void iniz(char x[][20], int a){
 }
 
 
-void iniz(char x[], int a){
-    for(int i=0;i<a;i++)
+void iniz(char x[20]){
+    for(int i=0;i<20;i++)
     {
         x[i]=0;
     }
