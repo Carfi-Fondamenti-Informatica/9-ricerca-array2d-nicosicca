@@ -1,3 +1,5 @@
+#include 'lib.h'
+
 void iniz(char x[][20], int a){
     for(int i=0;i<a;i++)
     {
