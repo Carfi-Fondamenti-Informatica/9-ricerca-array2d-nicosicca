@@ -1,5 +1,6 @@
 #include "lib.h"
 
+
 void iniz(char x[10][20]){
     for(int i=0;i<10;i++)
     {
